@@ -14,6 +14,8 @@ const Course = (props) => {
                     <CardMedia style={{height: 0, paddingTop: '56.25%'}}
                     image={props.course.fields.url2}
                     title={props.course.fields.title}
+                    // asdf
+                    // https://app.contentful.com/spaces/56spos08xjj3/home
                     />
                     <CardContent>
                     <Typography gutterBottom variant="headline" component="h2">
